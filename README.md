@@ -1,6 +1,6 @@
 # BelajarVCS
 ## Belajar Git 
 
-### Tutorial Mendafrtar akun github
+### Tutorial Mendaftar akun github
 Ini adalah Tampilannya
-! [Gambar1](screenshot/SS1.png)
+![Gambar 1](screenshot/SS1.png)
