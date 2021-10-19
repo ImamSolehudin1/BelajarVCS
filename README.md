@@ -3,4 +3,4 @@
 
 ### Tutorial Mendafrtar akun github
 Ini adalah Tampilannya
-! [img]screenshot/SS1.png
+! [Gambar1](screenshot/SS1.png)
