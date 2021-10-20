@@ -3,4 +3,4 @@
 
 ### Tutorial Mendaftar akun github
 Ini adalah Tampilannya
-![Gambar] screenshot/SS1.png
+![Gambar](screenshot/SS1.png)
