@@ -4,4 +4,4 @@
 ### Cara Membuat Repository Github
 Ini merupakan screenshot dari file yang saya buat
 
-![GambarSS](GambarSS/screenshot.png)
+![Gambar](Picture/shot1.png)
