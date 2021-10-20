@@ -1,4 +1,4 @@
-# Belajar Versio Control System
+# Belajar Version Control System
 ## Menggunakan Github 
 
 ### Tutorial Membuat Repository Github
