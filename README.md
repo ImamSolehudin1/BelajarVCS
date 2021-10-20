@@ -27,7 +27,7 @@
 ![Gambar1](sstutorial/ss11.png)
 12.	Selanjutnya kita akan menampilkan screenshot file yang kita buat pada repository. Kita buka file README.md tersebut menggunakan VS Code(bisa menggunakan software lain). Lalu kita masukan file screenshotnya pada file README.md. contohnya pada gambar dibawah ini 
 ![Gambar1](sstutorial/ss12.png)
-13. Jika sudah kita simpan Kembali file README.md nya.selanjutnya kita buka Kembali git bash nya untuk menambahkan file screenshot dan menyimpan file README.md yang telah diubah tadi. Pertama kita ketik perintah git add screenshot/pict1.png
+13. Jika sudah kita simpan Kembali file README.md nya.selanjutnya kita buka Kembali git bash nya untuk menambahkan file screenshot dan menyimpan file README.md yang telah diubah tadi. karena gambar yang kita sisipkan banyak maka kita ketik perintah untuk gamber pertama sampai terakhir. contoh git add sstutorial/ss1.png sampai git add ssturorial/ss18.png
 ![Gambar1](sstutorial/ss13.png)
 14.	Ketikan perintah git status, kita lihat ada perubahan di file README.md. sekarang kita simpan perubahan tersebut.
 ![Gambar1](sstutorial/ss14.png)
