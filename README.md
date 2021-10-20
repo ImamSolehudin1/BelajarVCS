@@ -26,15 +26,18 @@
 11.	Ketikan perintah git push -u origin main.  Untuk mengirim file ke repository, biasanya jika baru menggunakan github akan disuruh login ke akun github untuk verifikasi pengguna.
 ![Gambar1](sstutorial/ss11.png)
 12.	Selanjutnya kita akan menampilkan screenshot file yang kita buat pada repository. Kita buka file README.md tersebut menggunakan VS Code(bisa menggunakan software lain). Lalu kita masukan file screenshotnya pada file README.md. contohnya pada gambar dibawah ini 
-
+![Gambar1](sstutorial/ss12.png)
 13. Jika sudah kita simpan Kembali file README.md nya.selanjutnya kita buka Kembali git bash nya untuk menambahkan file screenshot dan menyimpan file README.md yang telah diubah tadi. Pertama kita ketik perintah git add screenshot/pict1.png
-
+![Gambar1](sstutorial/ss13.png)
 14.	Ketikan perintah git status, kita lihat ada perubahan di file README.md. sekarang kita simpan perubahan tersebut.
-
+![Gambar1](sstutorial/ss14.png)
 15.	Cara menyimpannya ketikan git add README.md
-
+![Gambar1](sstutorial/ss15.png)
 16. Lalu kita ketikan perintah git commit -m “perubahan Gambar”
-
+![Gambar1](sstutorial/ss16.png)
 17. Dan untuk Langkah terakhir kita push, ketikan perintah git push -u origin main
-
+![Gambar1](sstutorial/ss17.png)
 18.	 Berikut adalah tampilan yang berada di website Github
+![Gambar1](sstutorial/ss18.png)
+
+Sekian tutorial menggunakan Github. semoga bermanfaat bagi semuanya. Terima kasih.
