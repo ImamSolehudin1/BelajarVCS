@@ -1,6 +1,6 @@
-# BelajarVCS
-## Belajar Git 
+# Belajar Versio Control System
+## Menggunakan Github 
 
-### Tutorial Mendaftar akun github
-Ini adalah Tampilannya
-![Gambar](screenshot/pict1.png)
+### Cara Membuat Repository Github
+Ini merupakan screenshot dari file yang saya buat
+![Gambar](gambarss/screenshot.png)
